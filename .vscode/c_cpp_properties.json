@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/raul/ros2_ws/install/srv_pkg/include/**",
+        "/home/raul/ros2_ws/install/action_pkg/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/raul/ros2_ws/src/action_pkg/include/**",
+        "/home/raul/ros2_ws/src/cusmsg/include/**",
+        "/home/raul/ros2_ws/src/srv_pkg/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

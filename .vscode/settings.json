@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/raul/ros2_ws/install/srvcli_py/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/srv_pkg/local/lib/python3.10/dist-packages",
+        "/home/raul/ros2_ws/install/opencv_tools/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_time_display/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_first_package/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/linear_action_control/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/gui_inter/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/dino_game/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/addint/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/action_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/raul/ros2_ws/install/srvcli_py/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/srv_pkg/local/lib/python3.10/dist-packages",
+        "/home/raul/ros2_ws/install/opencv_tools/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_time_display/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/my_first_package/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/linear_action_control/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/gui_inter/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/dino_game/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/addint/lib/python3.10/site-packages",
+        "/home/raul/ros2_ws/install/action_pkg/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

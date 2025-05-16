@@ -1,0 +1,7 @@
+camera_viewer:
+  ros__parameters:
+    camera_sources:
+      - /dev/video0
+      - /dev/video2
+    selected_camera: 0
+
